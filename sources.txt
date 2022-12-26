@@ -1,0 +1,53 @@
+Emmet
+better comments
+bracket pair colorizationb toggler
+es7 react/redux
+gitlens - git super charged
+prettied code formatter
+vscode icons
+
+What is Emmet?
+
+It is a addon helps to use shortcut for expanding the   code
+
+
+
+● Difference between a Library and Framework?
+
+Framework is collection of libraries. flow of code is controlled by the framework. Code is controlled by the Library
+library is collection of packages where as framework contains the basic flow and architecuture of an application 
+
+● What is CDN? Why do we use it?
+
+CDN - content delivery network is a network of servers that distribute content from an origin server throughout the world by caching 
+content close to where ever user is accessing 
+
+● Why is React known as React?
+for constantly changing data UI should react 
+
+● What is crossorigin in script tag?
+
+CORS - cross origin resource sharing
+The purpose of crossorigin atribute is used to share resourcess from one domain to another domain   
+
+
+● What is diference between React and ReactDOM
+
+React library is responsible for creating views,ReactDOM library is responsible to actually render UI in the browser
+
+
+
+
+● What is difference between react.development.js and react.production.js files via CDN?
+
+
+● What is async and defer? -    
+
+In normal html parsing when controller sees script tag it stops parsing and fetches the script and then start parsing again 
+
+with async attribute is present then scripts are fetched asynchronusly , parallel fetching and parsing is done 
+once scripts are fetched parsing is paused and scripts are executed and then again parsing starts 
+
+
+In case of defer after the html parsing is completed then scripts are executed parallelly scripts are fetched from the network
+
